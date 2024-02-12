@@ -6,8 +6,9 @@
 </h2>
 
     $ make
-    $ ./prnt_p <filename> n r
+    $ ./prnt_p file n r
 
++ file: text file for readers to read from
 + n: γραμμές ανά τμήμα
 + r: αριθμό readers
 
